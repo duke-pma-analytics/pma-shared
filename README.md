@@ -191,8 +191,6 @@ pma-shared/
 | Repository | Description | Tasks Used |
 |------------|-------------|------------|
 | [atlas](https://github.com/duke-pma-analytics/atlas) | Self-supervised transformer for transdiagnostic structure discovery (ABCD) | All 4 |
-| [evigen](https://github.com/duke-pma-analytics/evigen) | Evidence-guided clinical report generation with faithfulness PRMs | — |
-| [iris](https://github.com/duke-pma-analytics/iris) | Clinical evidence retrieval | — |
  
 ---
  
